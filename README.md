@@ -1,1 +1,1 @@
-![alt text](readme_images/2.gif)
+![alt text](readme_files/2.gif)
